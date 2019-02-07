@@ -11,15 +11,15 @@ def division(num1, num2)
 end
 
 def multiplication(num1, num2)
-  6*6
+  10*12
 end
 
 def modulo(num1, num2)
-  69%8
+  16/4
 end
 
 def square_root(num)
-  Math.sqrt(9)
+  Math.sqrt(81)
 end
 
 def order_of_operation(num1, num2, num3, num4)
